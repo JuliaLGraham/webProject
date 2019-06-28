@@ -1,0 +1,73 @@
+
+
+h1
+{ font-size:50px;
+  font-family: 'Aclonica';
+  font-size: 45px;
+  background: radial-gradient(white 20%, gold);
+  width: 50%;
+  opacity: .7;
+  color:Black;
+  text-align:center;
+  border:black double 10px;
+  border-radius:10px;
+  padding:0.5em 0.5em 0.5em 0.5em;
+  margin-left: 430px;
+  }
+  ul {
+      list-style-type: none;
+      margin-left:600px;
+      margin-right:600px;
+      padding:5px;
+      overflow: hidden;
+      background-color:Black;
+  }
+  li {
+      float:left;
+  }
+  li a {
+      display: block;
+      color:white;
+      text-align:center;
+      padding: 14px 16px;
+      text-decoration:none;
+      font-family:'Aclonica';
+      font-size: 21px;
+  }
+  .active {background-color:gold;}
+  li a:hover {
+      background-color:gray;
+  }
+  h4 {font-family:'Aclonica';
+      font-size:25px;
+      text-align:center;
+      margin-left: 600px;
+      margin-right: 600px;
+      color: white;
+      background-color:RGBa(0, 0, 0, .8);
+      opacity:.9;}
+img {width: 115px;
+    height: 200px;
+    float:center;
+    border-style:double;
+    border-width: 15px;
+    border-color:gold;
+    opacity: .9;
+    }
+body {background-image:url("Lights.jpg");
+      text-align:center;
+      font-family:Arial;
+}
+span {color:Turquoise;
+      font-size:25px;
+      font-family:"Times New Roman";}
+
+p {color:red;
+  text-decoration: underline;
+  font-size:15px;
+  font-weight:bold;}
+
+  menu {text-align:center;
+        font-weight:bold;
+        border:solid black 5px;
+        word-spacing:20px;}
